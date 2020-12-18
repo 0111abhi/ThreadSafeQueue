@@ -1,0 +1,11 @@
+C:\Users\abhisagg\Documents\code\MultithreadedQueue\ThreadSafeQueue\ThreadSafeQueue\bin\Debug\netcoreapp3.1\ThreadSafeQueue.exe
+C:\Users\abhisagg\Documents\code\MultithreadedQueue\ThreadSafeQueue\ThreadSafeQueue\bin\Debug\netcoreapp3.1\ThreadSafeQueue.deps.json
+C:\Users\abhisagg\Documents\code\MultithreadedQueue\ThreadSafeQueue\ThreadSafeQueue\bin\Debug\netcoreapp3.1\ThreadSafeQueue.runtimeconfig.json
+C:\Users\abhisagg\Documents\code\MultithreadedQueue\ThreadSafeQueue\ThreadSafeQueue\bin\Debug\netcoreapp3.1\ThreadSafeQueue.runtimeconfig.dev.json
+C:\Users\abhisagg\Documents\code\MultithreadedQueue\ThreadSafeQueue\ThreadSafeQueue\bin\Debug\netcoreapp3.1\ThreadSafeQueue.dll
+C:\Users\abhisagg\Documents\code\MultithreadedQueue\ThreadSafeQueue\ThreadSafeQueue\bin\Debug\netcoreapp3.1\ThreadSafeQueue.pdb
+C:\Users\abhisagg\Documents\code\MultithreadedQueue\ThreadSafeQueue\ThreadSafeQueue\obj\Debug\netcoreapp3.1\ThreadSafeQueue.AssemblyInfoInputs.cache
+C:\Users\abhisagg\Documents\code\MultithreadedQueue\ThreadSafeQueue\ThreadSafeQueue\obj\Debug\netcoreapp3.1\ThreadSafeQueue.AssemblyInfo.cs
+C:\Users\abhisagg\Documents\code\MultithreadedQueue\ThreadSafeQueue\ThreadSafeQueue\obj\Debug\netcoreapp3.1\ThreadSafeQueue.dll
+C:\Users\abhisagg\Documents\code\MultithreadedQueue\ThreadSafeQueue\ThreadSafeQueue\obj\Debug\netcoreapp3.1\ThreadSafeQueue.pdb
+C:\Users\abhisagg\Documents\code\MultithreadedQueue\ThreadSafeQueue\ThreadSafeQueue\obj\Debug\netcoreapp3.1\ThreadSafeQueue.csprojAssemblyReference.cache

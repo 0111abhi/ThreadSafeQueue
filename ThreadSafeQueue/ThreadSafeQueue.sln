@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadSafeQueue", "ThreadSafeQueue\ThreadSafeQueue.csproj", "{355561E8-DAD9-44F6-8C8C-C9C62DAC9BBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{355561E8-DAD9-44F6-8C8C-C9C62DAC9BBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{355561E8-DAD9-44F6-8C8C-C9C62DAC9BBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{355561E8-DAD9-44F6-8C8C-C9C62DAC9BBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{355561E8-DAD9-44F6-8C8C-C9C62DAC9BBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {244BD091-027E-4778-BB05-D0B5629B1B6E}
+	EndGlobalSection
+EndGlobal
